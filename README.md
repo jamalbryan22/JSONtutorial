@@ -1,4 +1,4 @@
-# JSONtutorial
+# JSON tutorial
 Practice using FETCH API tutorial by Traversey Media
 
 # FILES
